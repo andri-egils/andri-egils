@@ -1,4 +1,9 @@
-### Hi there 👋
+### Fun facts
+
+- I made a painting that is in the prime minister's office
+- I am studying software engineering at Reykjavík University
+- I like Star Wars
+- I love stuff
 
 <!--
 **andri-egils/andri-egils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
